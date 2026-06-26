@@ -165,4 +165,4 @@ envFrom:
       name: myapp-config
 
 appConfig:
-  message: "Hello from Kubernetes & Helm 2!"
+  message: "Hello from Kubernetes & Helm!"
